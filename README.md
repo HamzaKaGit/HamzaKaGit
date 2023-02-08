@@ -54,16 +54,32 @@
 
 <!-- End here ... -->
 
+<!--- a bit of vertical space & languages text --->
+<div>&nbsp;</div>
+<p align="center"><img height="65" alt="Languages and tools text" src="https://github.com/DataOpsEnthusiast/DataOpsEnthusiast/blob/main/Assets/Images/Languages.svg"/></p>
+<div></div>
+
+
+<!--- Languages Tools End --->
+
+
+
+
+
+
 
 
 <!--Trophies Start here-->
 
 <p align="center">
-  <img width="140" src="https://user-images.githubusercontent.com/6661165/91657958-61b4fd00-eb00-11ea-9def-dc7ef5367e34.png" />  
-  <h2 align="center">GitHub Profile Trophy</h2>
-<a  href="https://github.com/ryo-ma/github-profile-trophy">
-  <img  height="200"  src="https://github-profile-trophy.vercel.app/?username=dataopsenthusiast&column=8&row=1&theme=dracula&no-frame=true"/>
-</a>
+<img width="140" src="https://user-images.githubusercontent.com/6661165/91657958-61b4fd00-eb00-11ea-9def-dc7ef5367e34.png"/>  
+<h2 align="center">GitHub Profile Trophy</h2></p>
+<p align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=dataopsenthusiast&theme=dracula&margin-w=55)](https://github.com/ryo-ma/github-profile-trophy)
+
+</p>
+
 <!--End here-->
 
 
