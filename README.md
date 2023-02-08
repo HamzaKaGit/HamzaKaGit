@@ -59,8 +59,9 @@
 <div>&nbsp;</div>
 <p align="center"><img height="65" alt="Languages and tools text" src="https://github.com/DataOpsEnthusiast/DataOpsEnthusiast/blob/main/Assets/Images/Languages.svg"/></p>
 
-<div>
+<div align="center">
 <!--- language icons --->
+
 <img height="140" src="https://user-images.githubusercontent.com/60597290/152359293-4c3dc461-2be7-4d75-b5e3-6244637020e1.png" />
 <img height="140" src="https://user-images.githubusercontent.com/60597290/152362823-eb0e032a-5c84-4832-803c-c77bf5b558a0.png" />
 <img height="140" src="https://user-images.githubusercontent.com/60597290/152361790-b7faad3d-5f95-468a-aa51-e38f39419ec4.png" />
@@ -90,7 +91,7 @@
 <!--Trophies Start here-->
 
 <p align="center">
-<img width="140" src="https://user-images.githubusercontent.com/6661165/91657958-61b4fd00-eb00-11ea-9def-dc7ef5367e34.png"/>  
+<img width="100" src="https://user-images.githubusercontent.com/6661165/91657958-61b4fd00-eb00-11ea-9def-dc7ef5367e34.png"/>  
 <h2 align="center">GitHub Profile Trophy</h2></p>
 <p align="center">
 
