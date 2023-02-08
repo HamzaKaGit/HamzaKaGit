@@ -1,5 +1,10 @@
 <img src="https://media.licdn.com/dms/image/D4D16AQFy26jSNHSyVA/profile-displaybackgroundimage-shrink_350_1400/0/1674753476223?e=1681344000&v=beta&t=QnHJPIEzmq2UWGFQxo86Ng1jvSIPe-IAyKRghsJqA7c" align="center" style="width: 100%" />
 
+<h1 align="center">
+  <a href="#">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey,+Myself+Hamza+Mehmood!;Great+to+Have+You+Here!&center=true&size=25">
+  </a>
+</h1>
 
   <p align="center">
   <a href="https://www.youtube.com/UCRX2pao9vPLyVcPEQWIlUoA"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"/></a>
@@ -14,3 +19,6 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://www.patreon.com/nezukobot"><img width="32px" alt="Patreon" title="Patreon" src="https://i.imgur.com/0uVwkoZ.png"/></a>
 </p>
+
+
+<div align="center"><img src="https://komarev.com/ghpvc/?username=dataopsenthusiast&style=circle&color=red" alt="views"/></div>
