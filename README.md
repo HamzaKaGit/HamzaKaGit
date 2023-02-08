@@ -7,17 +7,18 @@
 </h1>
 <!-- Social Handels-->
   <p align="center">
-  <a href="https://www.youtube.com/UCRX2pao9vPLyVcPEQWIlUoA"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"/></a>
+  <a href="https://linktr.ee/hamza_mehmood"><img width="66px" alt="Lt" title="Linktree" src="https://github.com/DataOpsEnthusiast/DataOpsEnthusiast/blob/main/Assets/Social_Icons/Linktree.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://twitter.com/MiaxuOfficial"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/OXZM1L6.png"/></a>
+  <a href="https://www.linkedin.com/in/hamzamehmood1/"><img width="66px" alt="In" title="LinkedIn" src="https://github.com/DataOpsEnthusiast/DataOpsEnthusiast/blob/main/Assets/Social_Icons/in.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://discord.gg/shiba" alt="Join our community"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a>
+  <a href="https://www.instagram.com/ham._.xah/"><img width="66px" alt="Ig" title="Instagram" src="https://github.com/DataOpsEnthusiast/DataOpsEnthusiast/blob/main/Assets/Social_Icons/ig.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://dev.to/giingu"><img width="32px" alt="Dev.to" title="Giingu Dev.to" src="https://i.imgur.com/mVm29vK.png"></a>
+  <a href="https://www.facebook.com/Hamza.Mehmood11"><img width="66px" alt="Fb" title="FaceBook" src="https://github.com/DataOpsEnthusiast/DataOpsEnthusiast/blob/main/Assets/Social_Icons/fb.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://ko-fi.com/nezukobot"><img width="32px" alt="Ko-fi" title="Buy me a coffee" src="https://i.imgur.com/PpLeD3K.png"/></a>
+  <a href="https://www.youtube.com/channel/UC1ak-1a8FcncL5nPr3oaqXQ"><img width="66px" alt="Yt" title="Youtube" src="https://github.com/DataOpsEnthusiast/DataOpsEnthusiast/blob/main/Assets/Social_Icons/Youtube.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.patreon.com/nezukobot"><img width="32px" alt="Patreon" title="Patreon" src="https://i.imgur.com/0uVwkoZ.png"/></a>
+  
+  
 </p>
 <!-- Handles End-->
 
