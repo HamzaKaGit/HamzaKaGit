@@ -103,6 +103,7 @@
 
 
 <hr>
+<h2 align="center">GitHub Profile Stats</h2></p>
 <p align="center">
   <img width="400px" src="https://github-readme-stats.vercel.app/api?username=dataopsenthusiast&count_private=true&show_icons=true&theme=material-palenight&hide_border=true&bg_color=1F222E" />
   <img width="400px" src="https://github-readme-streak-stats.herokuapp.com?user=dataopsenthusiast&theme=material-palenight&hide_border=true&fire=C77800&ring=7C2AE8&background=1F222E" />
@@ -111,8 +112,12 @@
 <!--- Stats End --->
 
 
-
-
+<!--- Github Metrices Starts --->
+<div align="left">
+  
+![Metrics](https://metrics.lecoq.io/dataopsenthusiast?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Asia%2FKarachi)
+</div>
+<!--- Metrices End --->
 
 
 
