@@ -81,6 +81,23 @@
   </div>
 <!--- Languages Tools End --->
 
+<!--- Github Stats Starts --->
+
+
+<hr>
+<p align="center">
+  <img width="400px" src="https://github-readme-stats.vercel.app/api?username=dataopsenthusiast&count_private=true&show_icons=true&theme=material-palenight&hide_border=true&bg_color=1F222E" />
+  <img width="400px" src="https://github-readme-streak-stats.herokuapp.com?user=dataopsenthusiast&theme=material-palenight&hide_border=true&fire=C77800&ring=7C2AE8&background=1F222E" />
+</p>
+
+<!--- Stats End --->
+
+
+
+
+
+
+
 
 
 
@@ -100,6 +117,36 @@
 </p>
 
 <!--End here-->
+
+
+
+
+<p align="center">
+<h2 align="center">GitHub Contributions</h2></p>
+<h4 align="center">Isometric view of contributions in the last year</h4>
+<p align="center">
+	<a href="./profile-3d-contrib/profile-night-green.svg">
+		<img width="900em" src="https://github.com/DataOpsEnthusiast/DataOpsEnthusiast/blob/main/3D_Contributions/profile-night-green.svg">
+	</a></p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
