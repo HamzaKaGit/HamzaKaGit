@@ -81,6 +81,24 @@
   </div>
 <!--- Languages Tools End --->
 
+
+<!--Trophies Start here-->
+
+<p align="center">
+<img width="100" src="https://user-images.githubusercontent.com/6661165/91657958-61b4fd00-eb00-11ea-9def-dc7ef5367e34.png"/>  
+<h2 align="center">GitHub Profile Trophy</h2></p>
+<p align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=dataopsenthusiast&theme=dracula&margin-w=55)](https://github.com/ryo-ma/github-profile-trophy)
+
+</p>
+
+<!--End here-->
+
+
+
+
+
 <!--- Github Stats Starts --->
 
 
@@ -105,29 +123,9 @@
 
 
 
-<!--Trophies Start here-->
-
-<p align="center">
-<img width="100" src="https://user-images.githubusercontent.com/6661165/91657958-61b4fd00-eb00-11ea-9def-dc7ef5367e34.png"/>  
-<h2 align="center">GitHub Profile Trophy</h2></p>
-<p align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=dataopsenthusiast&theme=dracula&margin-w=55)](https://github.com/ryo-ma/github-profile-trophy)
-
-</p>
-
-<!--End here-->
 
 
 
-
-<p align="center">
-<h2 align="center">GitHub Contributions</h2></p>
-<h4 align="center">Isometric view of contributions in the last year</h4>
-<p align="center">
-	<a href="./profile-3d-contrib/profile-night-green.svg">
-		<img width="900em" src="https://github.com/DataOpsEnthusiast/DataOpsEnthusiast/blob/main/3D_Contributions/profile-night-green.svg">
-	</a></p>
 
 
 
