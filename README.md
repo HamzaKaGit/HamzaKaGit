@@ -1,11 +1,24 @@
+<!--Top Banner-->
+
 <img src="https://github.com/DataOpsEnthusiast/DataOpsEnthusiast/blob/main/Assets/Images/Top_Banner.png" align="center" style="width: 100%" />
+
+<!--Top Banner End-->
+
+
+<!--Intro & Greerings-->
 
 <h1 align="center">
   <a href="#">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey,+Myself+Hamza+Mehmood!;Great+to+Have+You+Here!&center=true&size=25">
   </a>
 </h1>
-<!-- Social Handels-->
+
+<!--Greetings End-->
+
+
+
+<!-- Social Handles-->
+
   <p align="center">
   <a href="https://linktr.ee/hamza_mehmood"><img width="66px" alt="Lt" title="Linktree" src="https://github.com/DataOpsEnthusiast/DataOpsEnthusiast/blob/main/Assets/Social_Icons/Linktree.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
@@ -17,20 +30,23 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://www.youtube.com/channel/UC1ak-1a8FcncL5nPr3oaqXQ"><img width="66px" alt="Yt" title="Youtube" src="https://github.com/DataOpsEnthusiast/DataOpsEnthusiast/blob/main/Assets/Social_Icons/Youtube.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
+  </p>
   
-  
-</p>
 <!-- Handles End-->
 
 
 <!-- Profile View Counter-->
+
 <div align="center"><img src="https://komarev.com/ghpvc/?username=dataopsenthusiast&style=circle&color=blue" alt="views"/></div>
 <!-- Counter End -->
+
 
 <!-- Data Dont Lie-->
 
 <img align="right" width=150px src="https://github.com/DataOpsEnthusiast/DataOpsEnthusiast/blob/main/3D_Contributions/giphy.gif">
-<!-- End here -->
+
+<!-- Dont Lie End Here -->
+
 
 <!-- Personal Talks -->
 
@@ -43,7 +59,7 @@
 <!-- Talks End here -->
 
 
-<!-- Contribution Graph -->
+<!-- Snake Gif -->
 
 <h2 align="center">Let Me Feed on Data.🐍</h2>
 
@@ -53,13 +69,15 @@
 <!-- Don't Run Contribution Graph(Generate Snake) Action on your default Branch -->
 <br/>
 
-<!-- End here ... -->
+<!-- Snake GifEnd here ... -->
 
-<!--- a bit of vertical space & languages text --->
+<!---languages & Tools text --->
+
 <div>&nbsp;</div>
 <p align="center"><img height="65" alt="Languages and tools text" src="https://github.com/DataOpsEnthusiast/DataOpsEnthusiast/blob/main/Assets/Images/Languages.svg"/></p>
 
 <div align="center">
+
 <!--- language icons --->
 
 <img height="100" src="https://github.com/DataOpsEnthusiast/DataOpsEnthusiast/blob/main/Assets/Icons/C.png" />
@@ -93,7 +111,8 @@
   
 &nbsp;
   </div>
-<!--- Languages Tools End --->
+  
+<!--- Languages & Tools End --->
 
 
 <!--Trophies Start here-->
@@ -107,7 +126,7 @@
 
 </p>
 
-<!--End here-->
+<!-- Trophies End here-->
 
 
 
@@ -121,16 +140,33 @@
 <p align="center">
   <img width="400px" src="https://github-readme-stats.vercel.app/api?username=dataopsenthusiast&count_private=true&show_icons=true&theme=material-palenight&hide_border=true&bg_color=1F222E" />
   <img width="400px" src="https://github-readme-streak-stats.herokuapp.com?user=dataopsenthusiast&theme=material-palenight&hide_border=true&fire=C77800&ring=7C2AE8&background=1F222E" />
+  
 </p>
+
+<div align="center">
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dataopsenthusiast&theme=radical)
+
+</div>
+
+<div align="center">
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dataopsenthusiast&theme=radical) ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dataopsenthusiast&theme=radical)
+
+<a><img alt="Ajay Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=dataopsenthusiast&theme=react-dark&hide_border=true" /></a>
+
+</div>
 
 <!--- Stats End --->
 
 
 <!--- Github Metrices Starts --->
-<div align="left">
+
+<div align="center">
   
 ![Metrics](https://metrics.lecoq.io/dataopsenthusiast?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Asia%2FKarachi)
 </div>
+
 <!--- Metrices End --->
 
 
