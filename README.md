@@ -1,4 +1,4 @@
-<img src="https://media.licdn.com/dms/image/D4D16AQFy26jSNHSyVA/profile-displaybackgroundimage-shrink_350_1400/0/1674753476223?e=1681344000&v=beta&t=QnHJPIEzmq2UWGFQxo86Ng1jvSIPe-IAyKRghsJqA7c" align="center" style="width: 100%" />
+<img src="https://github.com/DataOpsEnthusiast/DataOpsEnthusiast/blob/main/Assets/Images/GITHUB%20BANNER_Banner.png" align="center" style="width: 100%" />
 
 <h1 align="center">
   <a href="#">
