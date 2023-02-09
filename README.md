@@ -1,4 +1,4 @@
-<img src="https://github.com/DataOpsEnthusiast/DataOpsEnthusiast/blob/main/Assets/Images/Top%20Banner_Banner%20copy.png" align="center" style="width: 100%" />
+<img src="https://github.com/DataOpsEnthusiast/DataOpsEnthusiast/blob/main/Assets/Images/Top_Banner.png" align="center" style="width: 100%" />
 
 <h1 align="center">
   <a href="#">
