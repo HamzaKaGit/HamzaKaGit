@@ -164,44 +164,10 @@
 
 <div align="center">
   
+  ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=Everyone+You+Meet,+has+Something+to+Teach+You.All+You+have+to+Grasp+What's+Floating+Towards+Surface.&author=Hamza+Mehmood)
+
 
   
 </div>
 
 <!--- Footer End --->
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
