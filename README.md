@@ -81,6 +81,7 @@
 <img height="100" src="https://github.com/DataOpsEnthusiast/DataOpsEnthusiast/blob/main/Assets/Icons/TABLEAU.png" />
 <img height="100" src="https://github.com/DataOpsEnthusiast/DataOpsEnthusiast/blob/main/Assets/Icons/STATS.png" />
 <img height="100" src="https://github.com/DataOpsEnthusiast/DataOpsEnthusiast/blob/main/Assets/Icons/EXCEL.png" />
+<img height="100" src="https://github.com/DataOpsEnthusiast/DataOpsEnthusiast/blob/main/Assets/Icons/visio.png" />
 <img height="100" src="https://github.com/DataOpsEnthusiast/DataOpsEnthusiast/blob/main/Assets/Icons/SQL.png" />
 <img height="100" src="https://github.com/DataOpsEnthusiast/DataOpsEnthusiast/blob/main/Assets/Icons/AZURE.png" />
 <img height="100" src="https://github.com/DataOpsEnthusiast/DataOpsEnthusiast/blob/main/Assets/Icons/ps.png" />
