@@ -122,7 +122,7 @@
 <h2 align="center">GitHub Profile Trophy</h2></p>
 <p align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=dataopsenthusiast&theme=dracula&margin-w=55)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=  HamzaKaGit&theme=dracula&margin-w=55)](https://github.com/ryo-ma/github-profile-trophy)
 
 </p>
 
@@ -138,7 +138,7 @@
 <hr>
 <h2 align="center">GitHub Profile Stats</h2></p>
 <p align="center">
-  <img width="400px" src="https://github-readme-stats.vercel.app/api?username=dataopsenthusiast&count_private=true&show_icons=true&theme=material-palenight&hide_border=true&bg_color=1F222E" />
+  <img width="400px" src="https://github-readme-stats.vercel.app/api?username=HamzaKaGit&count_private=true&show_icons=true&theme=material-palenight&hide_border=true&bg_color=1F222E" />
   <img width="400px" src="https://github-readme-streak-stats.herokuapp.com?user=dataopsenthusiast&theme=material-palenight&hide_border=true&fire=C77800&ring=7C2AE8&background=1F222E" />
   
 </p>
