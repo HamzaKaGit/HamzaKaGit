@@ -122,7 +122,7 @@
 <h2 align="center">GitHub Profile Trophy</h2></p>
 <p align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=  HamzaKaGit&theme=dracula&margin-w=55)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=HamzaKaGit&theme=dracula&margin-w=55)](https://github.com/ryo-ma/github-profile-trophy)
 
 </p>
 
